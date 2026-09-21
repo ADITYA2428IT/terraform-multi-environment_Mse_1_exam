@@ -1,0 +1,7 @@
+aws_region       = "us-east-1"
+environment      = "prod"
+instance_type    = "t3.small"
+instance_count   = 3
+project_name     = "terraform-mse"
+allowed_ssh_cidr = "0.0.0.0/0"
+
